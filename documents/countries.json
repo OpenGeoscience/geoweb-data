@@ -1,6 +1,4 @@
-/*jslint devel: true, forin: true, newcap: true, plusplus: true, white: true, indent: 2*/
-/*global geoModule, ogs, inherit*/
-geoModule.countries = {
+{
   "type": "FeatureCollection",
   "features": [{
     "type": "Feature",
@@ -31253,4 +31251,4 @@ geoModule.countries = {
       ]
     }
   }]
-};
+}
